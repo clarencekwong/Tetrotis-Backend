@@ -1,6 +1,6 @@
-# Tetrotis Backend
+# Tetrotis back-end
 
-The Tetrotis Backend is built with Ruby on Rails used to store hi-scores for the game.
+The Tetrotis back-end is built with Ruby on Rails used to store hi-scores for the game. Tetrotis front-end found [here](https://github.com/clarencekwong/Tetrotis)
 
 ## Installation
 
