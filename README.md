@@ -1,4 +1,10 @@
-# Tetrotis back-end
+# Tetrotis
+
+Simple + cute vanilla JavaScript clone of Tetris.
+
+![](https://media.giphy.com/media/XBWoMuK7gpyUVbalyp/source.gif)
+
+## Tetrotis back-end
 
 The Tetrotis back-end is built with Ruby on Rails used to store hi-scores for the game. Tetrotis front-end found [here](https://github.com/clarencekwong/Tetrotis)
 
